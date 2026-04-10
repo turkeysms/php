@@ -1,0 +1,21 @@
+{
+    "name": "turkeysms/php-sdk",
+    "description": "Official TurkeySMS API V4 Generic PHP SDK",
+    "keywords": ["sms", "turkeysms", "php", "api", "otp"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TurkeySMS Team",
+            "email": "support@turkeysms.com.tr"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TurkeySms\\": "src/"
+        }
+    }
+}
