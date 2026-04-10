@@ -1,9 +1,6 @@
 # TurkeySMS PHP SDK (Official Generic) 🐘
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/turkeysms/php-sdk.svg?style=flat-square)](https://packagist.org/packages/turkeysms/php-sdk)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-
-Official **PHP SDK** for the **TurkeySMS API V4**. Integrate high-volume SMS, secure OTP, and account management into any PHP project with minimal effort.
+Official **TurkeySms V4 Generic PHP Client** — Modern, PSR-4 compliant SDK powered by Guzzle. Seamlessly integrate SMS & OTP into any standard PHP environment.
 
 ## 🛠 Installation
 
